@@ -1,0 +1,18 @@
+D:\Manju-Workspace\Chandan\DAQ Simulator\DAQ Simulator\bin\Debug\DAQ Simulator.exe.config
+D:\Manju-Workspace\Chandan\DAQ Simulator\DAQ Simulator\obj\Debug\DAQ Simulator.csprojResolveAssemblyReference.cache
+D:\Manju-Workspace\Chandan\DAQ Simulator\DAQ Simulator\obj\Debug\DAQ_Simulator.DAQ_Simulator.resources
+D:\Manju-Workspace\Chandan\DAQ Simulator\DAQ Simulator\obj\Debug\DAQ_Simulator.Properties.Resources.resources
+D:\Manju-Workspace\Chandan\DAQ Simulator\DAQ Simulator\obj\Debug\DAQ Simulator.csproj.GenerateResource.Cache
+D:\Manju-Workspace\Chandan\DAQ Simulator\DAQ Simulator\bin\Debug\DAQ Simulator.exe
+D:\Manju-Workspace\Chandan\DAQ Simulator\DAQ Simulator\bin\Debug\DAQ Simulator.pdb
+D:\Manju-Workspace\Chandan\DAQ Simulator\DAQ Simulator\obj\Debug\DAQ Simulator.exe
+D:\Manju-Workspace\Chandan\DAQ Simulator\DAQ Simulator\obj\Debug\DAQ Simulator.pdb
+D:\DAQ Simulator\DAQ Simulator\bin\Debug\DAQ Simulator.exe.config
+D:\DAQ Simulator\DAQ Simulator\obj\Debug\DAQ Simulator.exe
+D:\DAQ Simulator\DAQ Simulator\obj\Debug\DAQ Simulator.pdb
+D:\DAQ Simulator\DAQ Simulator\bin\Debug\DAQ Simulator.exe
+D:\DAQ Simulator\DAQ Simulator\bin\Debug\DAQ Simulator.pdb
+D:\DAQ Simulator\DAQ Simulator\obj\Debug\DAQ Simulator.csprojResolveAssemblyReference.cache
+D:\DAQ Simulator\DAQ Simulator\obj\Debug\DAQ_Simulator.DAQ_Simulator.resources
+D:\DAQ Simulator\DAQ Simulator\obj\Debug\DAQ_Simulator.Properties.Resources.resources
+D:\DAQ Simulator\DAQ Simulator\obj\Debug\DAQ Simulator.csproj.GenerateResource.Cache
